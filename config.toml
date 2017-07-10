@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CAP Foundation Test Site"
+
+[Params]
+Author="Kenneth Dillard"
