@@ -1,5 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/KenDillard/capfoundation"
+
 languageCode = "en-us"
+
 title = "CAP Foundation Test Site"
 
 [Params]
